@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [STIM](https://www.stim.se/en/musik-har-ett-varde)’s first native application.
+🔭 I’m currently working on [STIM](https://www.stim.se/en/musik-har-ett-varde)’s first native application
 
-🌱 I’m currently learning TypeScript.
+🌱 I’m currently learning TypeScript
 
-👯 I’m looking to collaborate on open source fintech.
+👯 I’m looking to collaborate on open source fintech
 
-🤔 I’m looking for help with scaling React Native applications.
+🤔 I’m looking for help with scaling React Native applications
 
-💬 Ask me about all things React Native.
+💬 Ask me about all things React Native
 
-📫 How to reach me: [@karlerikjonatan](https://twitter.com/karlerikjonatan).
+📫 How to reach me: [@karlerikjonatan](https://twitter.com/karlerikjonatan)
