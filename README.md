@@ -9,5 +9,3 @@
 🤔 I’m looking for help with scaling React Native applications
 
 💬 Ask me about all things React Native
-
-📫 How to reach me: [@karlerikjonatan](https://twitter.com/karlerikjonatan)
