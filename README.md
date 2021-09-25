@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi, I’m Jonatan 👨🏼‍💻
 
-<!--
-**karlerikjonatan/karlerikjonatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a fullstack **JavaScript** developer with 10 years of experience in programming.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a variety of web and mobile applications in **TypeScript**
+- 🌱 I’m currently learning **Docker** and reverse proxies
+- 👯 I’m looking to collaborate on **open source** software
+- 🤔 I’m looking for help on building and maintaining **design systems**
+- 💬 Ask me about all things **React Native** 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonatanpettersson)
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I’m a kombucha homebrewer!
