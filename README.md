@@ -3,7 +3,7 @@
 I’m a fullstack **JavaScript** developer with 10 years of experience in programming.
 
 - 🔭 I’m currently working on a variety of web and mobile applications in **TypeScript**
-- 🌱 I’m currently learning **Svelte** and improving my skills in **Docker**
+- 🌱 I’m currently learning **Svelte** and developing my skills in **Docker**
 - 👯 I’m looking to collaborate on **open source** projects
 - 🤔 I’m looking for help with building and maintaining **design systems**
 - 💬 Ask me about all things **React Native** 
