@@ -1,6 +1,6 @@
 ## Hi, I’m Jonatan 👨🏼‍💻
 
-I’m a fullstack **JavaScript** developer with 10 years of experience in programming.
+I’m a fullstack **JavaScript** developer with 10 years of experience in problem solving.
 
 - 🔭 I’m currently working on a variety of web and mobile applications in **TypeScript**
 - 🌱 I’m currently learning **Svelte** and practising my skills in **Docker**
