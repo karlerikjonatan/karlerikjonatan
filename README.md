@@ -1,6 +1,6 @@
 ## Hi, I’m Jonatan 👋
 
-I’m a full-stack developer specialising in all things [JavaScript](https://en.wikipedia.org/wiki/JavaScript).
+I’m a developer specialising in all things [JavaScript](https://en.wikipedia.org/wiki/JavaScript).
 
 - 🔭 I’m currently working on a variety of web and mobile applications in [TypeScript](https://www.typescriptlang.org/)
 - 🌱 I’m currently learning [Svelte](https://svelte.dev/) and practising my skills in [Docker](https://www.docker.com/)
