@@ -3,3 +3,5 @@ Full-stack developer embracing all things JavaScript. 10 years of total experien
 Hobbies and interests include outdoor running, record collecting, investments, reading nonfiction, listening to talk radio, watching documentaries and homebrewing of kombucha.
 
 Open to mid-senior, lead and/or director role opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/jonatanpettersson)
