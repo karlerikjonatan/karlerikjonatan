@@ -4,4 +4,28 @@ Hobbies and interests include outdoor running, record collecting, investments, r
 
 Open to mid-senior, lead and/or director role opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/jonatanpettersson)
+<details>
+  <summary>Experience</summary>
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>Company</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2019 -</td>
+        <td>STIM</td>
+        <td>Frontend Developer</td>
+      </tr>
+      <tr>
+        <td>2016 - 2018</td>
+        <td>EY Doberman</td>
+        <td>Software Engineer</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
