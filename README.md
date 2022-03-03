@@ -6,7 +6,6 @@ Open to mid-senior, lead and/or director role opportunities.
 
 <details>
   <summary>Experience</summary>
-  <br>
   <table>
     <thead>
       <tr>
@@ -42,7 +41,6 @@ Open to mid-senior, lead and/or director role opportunities.
 
 <details>
   <summary>Education</summary>
-  <br>
   <table>
     <thead>
       <tr>
