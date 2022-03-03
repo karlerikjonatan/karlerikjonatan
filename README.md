@@ -23,8 +23,18 @@ Open to mid-senior, lead and/or director role opportunities.
       </tr>
       <tr>
         <td>2016 - 2018</td>
-        <td>EY Doberman</td>
+        <td>Doberman</td>
         <td>Software Engineer</td>
+      </tr>
+      <tr>
+        <td>2014 - 2016</td>
+        <td>The World Loves</td>
+        <td>Frontend Developer</td>
+      </tr>
+      <tr>
+        <td>2012 - 2014</td>
+        <td>Coursio</td>
+        <td>Frontend Developer</td>
       </tr>
     </tbody>
   </table>
