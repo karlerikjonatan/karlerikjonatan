@@ -39,3 +39,26 @@ Open to mid-senior, lead and/or director role opportunities.
     </tbody>
   </table>
 </details>
+
+<details>
+  <summary>Education</summary>
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th>Year</th>
+        <th>School</th>
+        <th>Field of study</th>
+        <th>Degree</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2011 - 2013</td>
+        <td>Hyper Island</td>
+        <td>Digital Communication and Media/Multimedia</td>
+        <td>Diploma in Higher Vocational Education</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
