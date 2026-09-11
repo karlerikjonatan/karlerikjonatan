@@ -1,19 +1,8 @@
-# 👋 Jonatan Pettersson
-
-**Software Engineer** — turning 15 years of hands-on development into technical leadership and product impact.
+# Jonatan Pettersson
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatanpettersson)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karlerikjonatan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pettersson.jonatan@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Stockholm%2C_Sweden-informational?style=flat-square)
-
-## Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Experience](#experience)
-- [Education](#education)
-
----
 
 ## About Me
 
@@ -39,32 +28,32 @@ Software engineer with 15 years of experience building digital products, combini
 
 ## Experience
 
-### 📻 Sveriges Radio
+### Sveriges Radio
 **Software Engineer** · Aug 2024 - Present · Stockholm, Sweden
 
 Evolved the podcast experience for more than 1 million daily users across web and mobile, working closely with product, UX, and analytics teams while contributing to architecture, cybersecurity, and DevOps initiatives.
 
-### 🎵 Stim
+### Stim
 **Frontend Developer** · Feb 2019 - Jun 2024 · Stockholm, Sweden
 
 Led the technical direction for cross-platform mobile applications and front-end development, migrated client-side authentication to JWT with integrated eID, implemented automated testing and CI/CD pipelines, and mentored front-end developer interns.
 
-### 🏢 EY Doberman
+### EY Doberman
 **Software Engineer** · Aug 2016 - Dec 2018 · Stockholm, Sweden & New York, NY, USA
 
 Designed and developed digital products in multidisciplinary teams across Stockholm and New York, led full-stack development for web and native applications, guided clients on technology strategy and architecture, and mentored interns.
 
-### 🌍 The World Loves
+### The World Loves
 **Frontend Developer** · Aug 2014 - May 2016 · Stockholm, Sweden
 
-### 🚀 Coursio
+### Coursio
 **Frontend Developer** · Nov 2012 - Jun 2014 · Stockholm, Sweden
 
 ---
 
 ## Education
 
-### 🏝️ Hyper Island
+### Hyper Island
 **Digital Communication and Media/Multimedia** · 2011 - 2013 · Stockholm, Sweden
 
 - Branding and Visual Design
