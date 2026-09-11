@@ -1,55 +1,79 @@
-# Jonatan Pettersson
+# 👋 Jonatan Pettersson
 
-**Software Engineer**
+**Software Engineer** — turning 15 years of hands-on development into technical leadership and product impact.
 
-- **Location:** Stockholm, Sweden
-- **LinkedIn:** https://www.linkedin.com/in/jonatanpettersson
-- **GitHub:** https://github.com/karlerikjonatan
-- **Email:** pettersson.jonatan@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatanpettersson)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karlerikjonatan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pettersson.jonatan@gmail.com)
+![Location](https://img.shields.io/badge/Location-Stockholm%2C_Sweden-informational?style=flat-square)
+
+## Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Experience](#experience)
+- [Education](#education)
+
+---
 
 ## About Me
 
-I am a software engineer with 15 years of experience building digital products. I combine hands-on software development with technical leadership, mentoring, and improving engineering practices.
+Software engineer with 15 years of experience building digital products, combining hands-on development with technical leadership, mentoring, and improving engineering practices.
 
-- **Career interests:** Technical leadership, Product development
+- 🎯 **Career interests:** Technical leadership, Product development
+
+---
 
 ## Skills
 
 ### Programming Languages
-TypeScript, JavaScript, C#, Swift, Kotlin, PHP, Go, Python
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
 
 ## Experience
 
-### Sveriges Radio
-**Software Engineer**  
-Aug 2024 - Present | Stockholm, Sweden
+### 📻 Sveriges Radio
+**Software Engineer** · Aug 2024 - Present · Stockholm, Sweden
 
-Developed and evolved the podcast experience for more than 1 million daily users across web and mobile platforms. Collaborated closely with product, UX, and analytics teams. Contributed to architecture, cybersecurity, and DevOps initiatives.
+Evolved the podcast experience for more than 1 million daily users across web and mobile, working closely with product, UX, and analytics teams while contributing to architecture, cybersecurity, and DevOps initiatives.
 
-### Stim
-**Frontend Developer**  
-Feb 2019 - Jun 2024 | Stockholm, Sweden
+### 🎵 Stim
+**Frontend Developer** · Feb 2019 - Jun 2024 · Stockholm, Sweden
 
-Led the technical direction for cross-platform mobile applications and front-end development. Led the client-side migration of authentication systems to JWT and integrated eID. Implemented automated testing and CI/CD pipelines. Mentored front-end developer interns.
+Led the technical direction for cross-platform mobile applications and front-end development, migrated client-side authentication to JWT with integrated eID, implemented automated testing and CI/CD pipelines, and mentored front-end developer interns.
 
-### EY Doberman
-**Software Engineer**  
-Aug 2016 - Dec 2018 | Stockholm, Sweden & New York, NY, USA
+### 🏢 EY Doberman
+**Software Engineer** · Aug 2016 - Dec 2018 · Stockholm, Sweden & New York, NY, USA
 
-Worked in multidisciplinary teams in Stockholm and New York to design and develop digital products. Led full-stack development for web and native applications, guided clients on technology strategy and architecture, and mentored interns.
+Designed and developed digital products in multidisciplinary teams across Stockholm and New York, led full-stack development for web and native applications, guided clients on technology strategy and architecture, and mentored interns.
 
-### The World Loves
-**Frontend Developer**  
-Aug 2014 - May 2016 | Stockholm, Sweden
+### 🌍 The World Loves
+**Frontend Developer** · Aug 2014 - May 2016 · Stockholm, Sweden
 
-### Coursio
-**Frontend Developer**  
-Nov 2012 - Jun 2014 | Stockholm, Sweden
+### 🚀 Coursio
+**Frontend Developer** · Nov 2012 - Jun 2014 · Stockholm, Sweden
+
+---
 
 ## Education
 
-### Hyper Island
-**Digital Communication and Media/Multimedia**  
-2011 - 2013 | Stockholm, Sweden
+### 🏝️ Hyper Island
+**Digital Communication and Media/Multimedia** · 2011 - 2013 · Stockholm, Sweden
 
-Branding and Visual Design, Communication and Conversation Skills, Digital Strategy and Development, Exploring Technology, Information Society, Life-cycle of Digital and Interactive Projects, Marketing and Communication, Presenting and Marketing yourself, Running a Digital Agency, Specialisation Technology and Design.
+- Branding and Visual Design
+- Communication and Conversation Skills
+- Digital Strategy and Development
+- Exploring Technology
+- Information Society
+- Life-cycle of Digital and Interactive Projects
+- Marketing and Communication
+- Presenting and Marketing Yourself
+- Running a Digital Agency
+- Specialisation Technology and Design
