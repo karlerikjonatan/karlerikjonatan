@@ -6,7 +6,7 @@
 
 - **Location:** [City, Country]
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/karlerikjonatan](https://github.com/karlerikjonatan)
+- **GitHub:** [github.com/your-username](https://github.com/your-username)
 - **Website:** [yourwebsite.com](https://yourwebsite.com)
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 
