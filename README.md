@@ -1,93 +1,55 @@
-# Your Name
+# Jonatan Pettersson
 
-**Professional Title / Role**
+**Software Engineer**
 
-*Write a short 2-3 sentence summary that highlights your experience, technical strengths, and the type of engineering work you do. Keep it concise, professional, and recruiter-friendly.*
-
-- **Location:** *City, Country*
-- **LinkedIn:** *LinkedIn profile URL*
-- **GitHub:** *GitHub profile URL*
-- **Website:** *Personal website URL*
-- **Email:** *Professional email address*
+- **Location:** Stockholm, Sweden
+- **LinkedIn:** https://www.linkedin.com/in/jonatanpettersson
+- **GitHub:** https://github.com/karlerikjonatan
+- **Email:** pettersson.jonatan@gmail.com
 
 ## About Me
 
-I am a *software engineer / developer / engineering leader* with experience in *primary domains or industries*. My work focuses on building reliable, maintainable systems and delivering practical solutions that create measurable business value.
+I am a software engineer with 15 years of experience building digital products. I combine hands-on software development with technical leadership, mentoring, and improving engineering practices.
 
-- **Areas of expertise:** *Backend development, Frontend development, Cloud infrastructure, Data engineering*
-- **Career interests:** *Platform engineering, Product development, Technical leadership, Scalable systems*
+- **Career interests:** Technical leadership, Product development
 
 ## Skills
 
 ### Programming Languages
-- *Language*
-- *Language*
-- *Language*
-
-### Frameworks and Libraries
-- *Framework / Library*
-- *Framework / Library*
-- *Framework / Library*
-
-### Tools and Platforms
-- *Git*
-- *Docker*
-- *CI/CD*
-- *Linux*
-
-### Databases
-- *PostgreSQL*
-- *MySQL*
-- *MongoDB*
-
-### Cloud / DevOps
-- *AWS / Azure / GCP*
-- *Kubernetes*
-- *Terraform*
-- *Monitoring / Observability*
-
-### Other Technologies
-- *REST APIs*
-- *System design*
-- *Testing / Automation*
-- *Agile / Scrum*
+TypeScript, JavaScript, C#, Swift, Kotlin, PHP, Go, Python
 
 ## Experience
 
-### Most Recent Company
-**Most Recent Role Title**  
-*Month Year - Month Year or Present | Location*
+### Sveriges Radio
+**Software Engineer**  
+Aug 2024 - Present | Stockholm, Sweden
 
-- Delivered *specific project, system, or feature*, improving *metric or outcome* by *X% / measurable result*.
-- Built or maintained *service, application, or platform* using *technology*, supporting *users, transactions, teams, or business function*.
-- Collaborated with *cross-functional teams / stakeholders* to *solve problem*, resulting in *business or technical impact*.
-- Improved *performance, reliability, quality, or developer experience* through *specific action or initiative*.
+Developed and evolved the podcast experience for more than 1 million daily users across web and mobile platforms. Collaborated closely with product, UX, and analytics teams. Contributed to architecture, cybersecurity, and DevOps initiatives.
 
-### Previous Company
-**Previous Role Title**  
-*Month Year - Month Year | Location*
+### Stim
+**Frontend Developer**  
+Feb 2019 - Jun 2024 | Stockholm, Sweden
 
-- Developed *application, platform, or process* that helped *team or customer group* achieve *result*.
-- Reduced *latency, defects, manual work, costs, or downtime* by *X% / measurable result* through *specific improvement*.
-- Introduced or enhanced *tooling, process, architecture, or testing*, increasing *speed, stability, or maintainability*.
-- Supported delivery of *product or initiative* while working across *engineering, product, design, operations, and related teams*.
+Led the technical direction for cross-platform mobile applications and front-end development. Led the client-side migration of authentication systems to JWT and integrated eID. Implemented automated testing and CI/CD pipelines. Mentored front-end developer interns.
 
-## Projects
+### EY Doberman
+**Software Engineer**  
+Aug 2016 - Dec 2018 | Stockholm, Sweden & New York, NY, USA
 
-### Project Name
-- **Description:** *Briefly describe the project, the problem it solves, and the outcome.*
-- **Technologies:** *Tech 1, Tech 2, Tech 3*
-- **Link:** *Project repository or demo URL*
+Worked in multidisciplinary teams in Stockholm and New York to design and develop digital products. Led full-stack development for web and native applications, guided clients on technology strategy and architecture, and mentored interns.
 
-### Project Name
-- **Description:** *Briefly describe the project, the problem it solves, and the result.*
-- **Technologies:** *Tech 1, Tech 2, Tech 3*
-- **Link:** *Project repository or demo URL*
+### The World Loves
+**Frontend Developer**  
+Aug 2014 - May 2016 | Stockholm, Sweden
+
+### Coursio
+**Frontend Developer**  
+Nov 2012 - Jun 2014 | Stockholm, Sweden
 
 ## Education
 
-### Institution Name
-**Degree or Program**  
-*Month Year - Month Year | Location*
+### Hyper Island
+**Digital Communication and Media/Multimedia**  
+2011 - 2013 | Stockholm, Sweden
 
-- *Relevant coursework, specialization, honors, or thesis*
+Branding and Visual Design, Communication and Conversation Skills, Digital Strategy and Development, Exploring Technology, Information Society, Life-cycle of Digital and Interactive Projects, Marketing and Communication, Presenting and Marketing yourself, Running a Digital Agency, Specialisation Technology and Design.
