@@ -4,7 +4,7 @@
 
 ## About Me
 
-Software engineer with 15 years of experience building digital products, combining hands-on development with technical leadership, mentoring, and improving engineering practices.
+Senior software engineer with 15 years of experience building digital products, combining hands-on development with technical leadership, mentoring, and improving engineering practices.
 
 **Career interests:** Technical leadership, Product development
 
