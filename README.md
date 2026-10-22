@@ -4,9 +4,7 @@
 
 ## About Me
 
-Software engineer with 15 years of experience in product development and technical leadership, ready to transition into a staff or principal role. 
-
-**Career interests:** Technical leadership, Product development
+Software engineer with 15 years of experience in product development and technical leadership, ready to transition into a staff or principal role.
 
 ---
 
