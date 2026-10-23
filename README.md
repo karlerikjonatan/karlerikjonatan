@@ -4,7 +4,7 @@
 
 ## About Me
 
-Software engineer with 15 years of experience in product development and technical leadership, ready to transition into a staff or principal role.
+Software engineer with 15 years of experience in product development and technical leadership.
 
 ---
 
@@ -15,7 +15,7 @@ Software engineer with 15 years of experience in product development and technic
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Work on the podcast experience across all platforms.
+Working on the podcast experience across platforms and throughout the stack.
 
 ### Stim
 **Frontend Developer** · Feb 2019 - Jun 2024 · Stockholm, Sweden
