@@ -29,12 +29,14 @@ Led technical direction for cross-platform mobile applications and frontend deve
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Designed and developed digital products in multidisciplinary teams across Stockholm and New York. Led full-stack development for web and native applications. Guided clients on technology strategy and architecture. Mentored interns.
+Designed and developed digital products in multidisciplinary teams across Stockholm and New York. Led full-stack development for web and native applications. Guided clients on technology strategy and architecture. Mentored interns. Selected clients: IBM, H&M, Telia.
 
 ### The World Loves
 **Frontend Developer** · Aug 2014 - May 2016 · Stockholm, Sweden
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+Selected clients: Samsung, Elkjøp, Swish.
 
 ### Coursio
 **Frontend Developer** · Nov 2012 - Jun 2014 · Stockholm, Sweden
