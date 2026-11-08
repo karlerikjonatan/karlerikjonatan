@@ -4,7 +4,7 @@
 
 ## About Me
 
-Software engineer with 15 years of experience in product development and technical leadership.
+Software engineer with 15 years of experience in product development.
 
 ---
 
